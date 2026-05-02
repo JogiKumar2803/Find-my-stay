@@ -14,7 +14,7 @@ FindMyStay is an interactive chatbot that helps you find hotels near your curren
 
 1. Clone this repository or download the files
 2. Open `script.js` and replace `YOUR_GEMINI_API_KEY` with your actual Gemini API key
-3. Open `index.html` in a web browser
+3. Open `index.html` in a web browser(chrome)
 
 ## Usage
 
